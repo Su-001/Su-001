@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-suhanipareek88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suhanipareek88@gmail.com)](mailto:suhanipareek88@gmail.com)
 ---
 ## Hi there 👋,           
-I'm Suhani Pareek, 👨‍💻 Bachelors in Statistics, mathematics and Economics. I am a acturial science student who loves to spend time with techy stuff and exploring new things and meeting different people.
+I'm Suhani Pareek, 👨‍💻 Bachelors in Statistics, mathematics and Economics. I am a actuarial science student who loves to spend time with techy stuff and exploring new things and meeting different people.
 
 ## 🧐 About
 - 🏄‍ Community guy who loves being involved in communities and help others grow
