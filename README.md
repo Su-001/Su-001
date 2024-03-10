@@ -8,7 +8,7 @@ I'm Suhani Pareek, 👨‍💻 Bachelors in Statistics, Mathematics and Economic
 ## 🧐 About
 - 🏄‍ Community guy who loves being involved in communities and helping others grow
 - 😄 I love to learn new things.
-- ⚡ I’m currently learning Python, R, DSA
+- ⚡ I’m currently learning Python, R, C programming.
 - 👯 And Many More...
 
 # Hello World!! 🤔
